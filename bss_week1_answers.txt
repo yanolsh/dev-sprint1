@@ -1,3 +1,0 @@
-*** Cut and paste the for loop here ***
-
-*** What is the for loop doing? ***
